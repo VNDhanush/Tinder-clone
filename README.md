@@ -10,7 +10,7 @@ Firebase Account[firebase](https://firebase.google.com/)
 
 ### Open CLI
 
-git clone https://github.com/VNDhanush/amazon-clone.git
+git clone https://github.com/VNDhanush/tinder-clone.git
 
 Run npm install -g firebase-tools(https://firebase.google.com/docs/cli#mac-linux-npm)
 
